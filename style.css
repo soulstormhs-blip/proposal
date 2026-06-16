@@ -1,0 +1,5 @@
+
+body{margin:0;font-family:Arial,sans-serif;background:linear-gradient(135deg,#ffd6e7,#e8d6ff,#d9f3ff);display:flex;justify-content:center;align-items:center;min-height:100vh;text-align:center}
+.container{max-width:900px;padding:30px}.btn{padding:14px 28px;border:none;border-radius:30px;background:#ff78b0;color:#fff;text-decoration:none;cursor:pointer;margin:10px}
+.chibi{width:220px;animation:bounce 2s infinite}.question{font-size:2rem}.chapter{margin-top:20px;color:#7a4ca5}
+@keyframes bounce{50%{transform:translateY(-12px)}}
